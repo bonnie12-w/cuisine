@@ -9,12 +9,12 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🔥</span>
               <div>
-                <h3 className="font-display text-xl font-bold gold-gradient-text">Savannah Flame</h3>
-                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">Grill</p>
+                <h3 className="font-display text-xl font-bold gold-gradient-text">DineWithNana</h3>
+                <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">NSR</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Nairobi's premier flame grill restaurant. Premium steaks, authentic Kenyan cuisine, and an unforgettable dining experience.
+              Experience Modern Swahili Dining at Nana Where timeless Swahili recipes meet contemporary culinary flair.
             </p>
           </div>
 
@@ -28,10 +28,10 @@ const Footer = () => {
                 <Phone className="w-4 h-4 text-primary" /> +254 712 345 678
               </p>
               <p className="flex items-center gap-3">
-                <Mail className="w-4 h-4 text-primary" /> hello@savannahflame.co.ke
+                <Mail className="w-4 h-4 text-primary" /> hello@nanaswahilirestaurant.co.ke
               </p>
               <p className="flex items-center gap-3">
-                <Instagram className="w-4 h-4 text-primary" /> @savannahflamegrill
+                <Instagram className="w-4 h-4 text-primary" /> @nana_swahili_restaurant
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center text-xs text-muted-foreground/50">
-          © 2026 Savannah Flame Grill. All rights reserved.
+          © 2026 nanaswahilirestaurant. All rights reserved.
         </div>
       </div>
     </footer>
